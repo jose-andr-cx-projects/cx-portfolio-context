@@ -90,6 +90,47 @@ Promote only when useful
 
 This keeps organisational project evidence separate from José's personal interpretation while still allowing Strategic OS to reason across the portfolio.
 
+## Strategic capability flow
+
+Projects may use reusable Strategic OS capabilities without copying Personal OS or duplicating the canonical skill definitions.
+
+Use:
+
+```text
+Personal OS
+curated operating guidance only
+        ↓
+Strategic OS
+agents + shared skills
+        ↓
+CX project repository
+project-specific application
+        ↓
+validated reusable learning
+        ↓
+Strategic OS
+```
+
+Examples of shared Strategic OS skills include:
+
+- HCD / Service Design;
+- Agile / Experimentation / Shipping;
+- Influence;
+- Organisational Culture & Power Literacy;
+- Storytelling;
+- Visualisation;
+- Facilitation;
+- Executive Communication; and
+- Evidence & Research Synthesis.
+
+Project repositories may contain project-specific applications or extensions where required.
+
+Do not copy the canonical Strategic OS skill files into project repositories.
+
+Promote project learning back into Strategic OS only when repeated use shows that it is reusable beyond the project.
+
+Personal OS context must not be copied into CX project repositories. Projects receive only the minimum operating behaviour or capability relevant to the work.
+
 ## Current portfolio
 
 | GitHub repository | Visibility | Role |
