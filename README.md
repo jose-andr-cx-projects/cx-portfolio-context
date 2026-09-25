@@ -22,13 +22,13 @@ Delivery activity, ownership, sequencing and progress
 Bitbucket
 Project working assets → implementation → operationalisation
         │
-        │ controlled private mirror
+        │ controlled GitHub mirror where useful
         ▼
 ────────────────────────────────────────
 PERSONAL STRATEGIC ENVIRONMENT
 
 GitHub CX Projects organisation
-Private project mirrors
+Project mirrors and bounded CX capability repositories
         │
         ▼
 Strategic OS
@@ -38,7 +38,7 @@ career evidence and reusable learning
 
 ## Core rule
 
-> Bitbucket and the relevant organisational systems run the work. GitHub exposes a private mirror of that work to Strategic OS. Strategic OS interprets the work; it does not become the organisational project source of truth.
+> Bitbucket and the relevant organisational systems run the work. GitHub exposes controlled project context to Strategic OS. Strategic OS interprets the work; it does not become the organisational project source of truth.
 
 ## Repository roles
 
@@ -47,7 +47,8 @@ career evidence and reusable learning
 | Confluence | Agreed project context, decisions and endorsed stakeholder-facing artefacts where used by the project | Organisational project authority for that material |
 | Jira | Delivery activity, ownership, sequencing, dependencies and progress | Delivery-management authority |
 | Bitbucket | Organisation-managed project repository, implementation assets and transition toward operationalisation | Organisational Git authority |
-| GitHub CX project mirror | Private mirrored project content made accessible to Strategic OS | Observation layer only |
+| GitHub CX project mirror | Controlled mirrored project content made accessible to Strategic OS | Observation layer only |
+| GitHub CX capability repository | Bounded CX capability or prototype content where a standalone repository is useful | Governed by that repository's documented source rules |
 | `cx-portfolio-context` | Portfolio index, mirror rules and Strategic OS bridge metadata | Bridge definition only |
 | Strategic OS | Personal strategic interpretation, safe project summaries, reusable learning and career evidence | Authoritative for José's Strategic OS knowledge |
 
@@ -62,6 +63,7 @@ Individual projects may use these systems differently. The project's own documen
 5. If Bitbucket and GitHub differ, treat Bitbucket as authoritative for the organisational repository and flag the divergence rather than silently reconciling it.
 6. Strategic OS may use mirrored repositories as evidence inputs, but should retain only safe summaries, references, interpretations and reusable learning.
 7. Do not automatically push Strategic OS conclusions or career analysis back into organisational systems.
+8. Repository visibility should default to private. Public visibility should be a deliberate exception for material that is safe and useful to expose publicly, with the repository's own source and governance boundaries documented.
 
 ## Strategic OS relationship
 
@@ -90,12 +92,16 @@ This keeps organisational project evidence separate from José's personal interp
 
 ## Current portfolio
 
-| GitHub mirror | Visibility | Role |
+| GitHub repository | Visibility | Role |
 |---|---|---|
 | `cx-current-state-sop-mapping` | Private | CX project mirror |
 | `customer-account-management` | Private | CX project mirror |
 | `channel-strategy-y2` | Private | CX project mirror |
-| `reusable-cx-knowledge-architecture` | Private | CX project mirror |
+| `reusable-cx-knowledge-architecture` | Private | CX project mirror / reusable CX knowledge work |
+| `cx-service-experience-mapping` | Private | CX project mirror |
+| `cx-communication-governance` | Public | CX communication governance prototype / capability repository |
+
+`cx-portfolio-context` is the portfolio bridge and index, not a project mirror.
 
 ## New project pattern
 
@@ -108,6 +114,8 @@ For a new CX project:
 5. create or update the corresponding Strategic OS project context only when there is useful strategic, decision, learning or career value to retain.
 
 Do not create a GitHub mirror merely for completeness.
+
+Use public visibility only as a deliberate exception when the repository contains material that is appropriate to expose publicly and the boundary is documented.
 
 ## Boundary
 
