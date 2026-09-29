@@ -67,3 +67,61 @@ Add, rather than separately re-synthesise:
 - material stakeholder validation that changes the Design brief.
 
 Each new input should update the synthesis only where it changes current understanding.
+
+
+## CXS Uplift current-state session — evidence capture
+
+The CXS Uplift session should do more than validate the historical infringement hypotheses. It has three evidence-capture purposes:
+
+1. **Validate historical research** — establish what is still current, what has changed, what is uncertain and what is no longer relevant.
+2. **Capture current CXS Uplift work** — understand what the team is working on now, the problem or opportunity being addressed, what is already changing, and where IFD work should complement rather than duplicate it.
+3. **Capture employee experience in the team's own words** — preserve useful verbatim about current handling, friction, workarounds, handoffs, information needs and opportunities.
+
+### Historical hypothesis capture
+
+For each relevant historical finding ask:
+
+**Still current? → What changed? → Where does the work happen now? → What creates avoidable effort? → What customer/context information would help earlier? → Could the IFD improve that without moving the review decision into the front door?**
+
+Classify the result as:
+
+**Still current / Changed / Uncertain / No longer relevant**
+
+### Current CXS Uplift work capture
+
+Capture:
+
+**Current work → Problem/opportunity being addressed → Current stage → Expected change → Relevant dependency/constraint → Relationship to IFD**
+
+Record these as reported by the team unless supported by an authoritative current project source. Do not infer endorsement, completion, ownership or realised benefit.
+
+### Employee experience verbatim
+
+Capture:
+
+**Role/context → Verbatim → What it illustrates → Evidence status**
+
+Preserve the speaker's wording where useful. Keep the verbatim separate from interpretation. Where named attribution is unnecessary, safely de-identify the speaker while retaining enough role or process context to interpret the quote.
+
+Useful prompts include:
+
+- Where does this process create the most effort for you today?
+- What information is commonly missing, unclear or arrives too late?
+- Where do you have to re-read, re-key, investigate, chase or explain?
+- What types of customer contact could have been avoided with better information or context earlier?
+- Where does talking to a person genuinely improve the outcome?
+- What do customers commonly misunderstand before the work reaches you?
+- If the front door understood one thing earlier, what would make the biggest difference to your work?
+- What current uplift work should the IFD build on rather than duplicate?
+
+Capture new observations separately from the historical hypotheses so the session can reveal current issues that the older research did not identify.
+
+### Synthesis rule
+
+After the session, update the main convergence synthesis only where evidence changes or extends current understanding.
+
+Keep distinct:
+
+**Historical evidence → Current reported evidence → Verbatim → Interpretation → IFD implication**
+
+This preserves traceability while allowing internal service benefit to become a first-class part of the context overlay.
