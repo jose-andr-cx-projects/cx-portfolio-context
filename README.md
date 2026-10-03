@@ -40,6 +40,41 @@ career evidence and reusable learning
 
 > Bitbucket and the relevant organisational systems run the work. GitHub exposes controlled project context to Strategic OS. Strategic OS interprets the work; it does not become the organisational project source of truth.
 
+## Current strategic priority lens
+
+As of 30 September 2026, José's first strategic lens across the CX portfolio is **business-led Customer Data Architecture**.
+
+This is a Strategic OS prioritisation lens, not an approved City of Melbourne enterprise architecture.
+
+Use it to connect relevant work around:
+
+- customers and customer relationships;
+- services and Service Offerings;
+- Interaction Modes and customer expectations;
+- customer/account context;
+- operational systems and channels;
+- experience evidence and measurement; and
+- reusable business rules or stewardship capability.
+
+The lens should guide prioritisation without forcing every project into one architecture.
+
+Current portfolio roles are:
+
+| Workstream | Contribution to the priority lens |
+|---|---|
+| Customer Account Management | First proving ground for trusted customer context, stewardship, quality, relationships and verification |
+| CX Service Experience Mapping | Connects services, Segments and Modes to reveal cross-service relationships, experience patterns and measurement opportunities |
+| Current-State SOP Mapping | Provides operational evidence about how customer and service information is created, corrected, governed and handed off today |
+| Channel Strategy Y2 / Intelligent Front Door | Downstream consumer of trusted customer, service and Mode context for routing, continuity and channel design |
+| Reusable CX Knowledge Architecture | Supporting capability for stable CX knowledge and rules that need governed reuse |
+| CX Communication Governance | Bounded proof of business-owned rules reused across implementations |
+
+The canonical Strategic OS interpretation is:
+
+`02_strategic_opportunities/2026-10-04_customer-data-architecture-priority-lens.md`
+
+Do not copy the full strategy into each project repository. Project documentation should state only the project's specific contribution and preserve its own source authority.
+
 ## Repository roles
 
 | Layer | Role | Authority |
