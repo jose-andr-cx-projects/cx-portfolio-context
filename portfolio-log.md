@@ -47,6 +47,19 @@ _Initial working baseline from recent project conversations as of 23 October 202
 
 **Evidence / limitations:** Derived from recent working conversations; authoritative organisational source checks not completed in this log.
 
+## Friday transcript review
+
+The session transcript is an evidence input, not an approved project record.
+
+1. After the catch-up, review the transcript in an approved environment. If multiple people spoke through one login, do not infer speaker identity from the transcript label.
+2. Extract material feedback, challenges, proposed directions, explicit agreements, unresolved questions and follow-ups. Record who said what only when reliably identifiable.
+3. Distinguish **suggested**, **supported**, **agreed in conversation**, and **formally approved**. Do not convert informal discussion into an authorised project decision.
+4. Compare with the previous portfolio entry and the appropriate organisational project sources. Flag contradictions and uncertain ownership for confirmation.
+5. Draft a short, de-identified synthesis for José's review. After approval, update this log with the source date, evidence status, changes in direction and outstanding next moves.
+6. Carry unresolved questions into the next Friday briefing under **Strategic direction:**; close superseded items.
+
+**Storage boundary:** Keep raw transcripts and controlled meeting records in their approved organisational locations. Do not copy them or sensitive stakeholder/career commentary to GitHub. The scheduled 9am briefing does not automatically ingest transcripts or update this repository.
+
 ## Entry template
 
 ### Week ending YYYY-MM-DD
