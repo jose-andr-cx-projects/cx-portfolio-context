@@ -44,6 +44,26 @@ Before implementation:
 
 ---
 
+
+
+## Gate 0 interaction and platform exploration, agreed 24 October 2026
+
+- [ ] Confirm the work-laptop, cloud-browser access requirements and organisational permission to use each candidate service.
+- [ ] Define the minimum interaction contract: project selection, intentional specialist selection, visible responding role, verified context/source freshness, conversation continuity, and human approval before external changes.
+- [ ] Confirm portfolio priorities and cross-project trade-offs remain with Chief of Staff, while project-level delivery flow remains with Agile Project Lead; validate overlap in the live Strategic OS agent specification.
+- [ ] Assess GitHub Copilot Spaces for contextual project conversation using selected approved source files; verify separately whether GitHub custom agents can deliver the intended specialist experience in that surface.
+- [ ] Compare with ChatGPT plus GitHub as the familiar interaction baseline, using the same bounded scenario and project context.
+- [ ] Consider Relevance Chat only as a tested multi-agent interaction alternative, not an assumed requirement.
+- [ ] Treat Fly.io as a later custom-app hosting option; do not build a new frontend or orchestration layer for this pilot.
+- [ ] Assess whether GitHub Projects, Issues or Actions remove friction without duplicating organisational Jira/Confluence or producing ungoverned project status.
+- [ ] Record observed quality of source grounding, specialist output, usability, continuity, permission constraints and manual overhead before choosing a runtime or interface.
+
+**Proposed first test, not yet started:** Customer Account Management read-only conversation through GitHub Copilot Spaces with an Agile Project Lead lens. Ask for purpose/scope with source links; documented decisions, risks and dependencies with explicit unknowns; and the next smallest valuable increment with evidence. Then repeat comparable questions in ChatGPT plus GitHub. Consider Channel Strategy Y2 for a separate HCD case. Use approved, non-sensitive context only.
+
+**Decision and pause:** The two-agent model remains agreed; initial interaction direction is cloud-accessible, conversation-first and project-context-aware. Platform choice, custom agents, pilot execution and automation remain deferred until José explicitly reopens implementation. This section documents future validation, not completed Gate 0 checks.
+
+---
+
 # Gate 1 — Confirm authoritative project inputs
 
 For each pilot project:
@@ -328,6 +348,6 @@ Implementation has **not started**.
 
 No agent specifications, prompts, runtimes, automations, integrations or new Strategic OS framework components should be created from this checklist yet.
 
-The next work is the broader framing of José's agentic model.
+The broader agentic architecture has advanced and an interaction direction was recorded on 24 October 2026. Gate 0 validation and an explicit decision to begin implementation remain outstanding.
 
 Reopen this checklist only after that framing is sufficiently clear and José explicitly chooses to begin implementation.
