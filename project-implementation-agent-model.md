@@ -492,6 +492,38 @@ If they mainly produce more documentation, duplicate existing Strategic OS agent
 
 ---
 
+
+
+---
+
+# Interaction and platform direction (24 October 2026)
+
+## Agreed direction
+
+The two existing project implementation roles remain the starting point: Human-Centred Design Specialist and Agile Project Lead. Do not introduce a separate project coordinator, delivery agent or project intelligence agent before evidence demonstrates a gap. The Design Systems Architect retains architecture stewardship rather than absorbing routine project delivery work.
+
+The desired experience is cloud-accessible through a browser on a work laptop and conversation-first. Keep the interface familiar, with a selected project providing context and a deliberately selected specialist providing expertise. Multiple agents should not force José to operate multiple independent chats or repeatedly reconstruct project context. The longer-term possibility of visible, human-approved specialist handoffs or a project workspace remains exploratory, not an approved implementation requirement.
+
+Maintain a capability-first, vendor-independent architecture. Organisational systems remain authoritative for governed project facts and delivery state. CX GitHub repositories are project context and observation mirrors where their source contracts say so, not automatic replacements for Jira, Confluence, Bitbucket or other organisational records. Strategic OS continues to govern reusable agent roles, principles and architectural contracts.
+
+## Platform exploration, not a selection
+
+- **ChatGPT with GitHub access:** familiar conversation and a baseline for contextual reasoning.
+- **GitHub Copilot Spaces and custom agents:** evaluate native repository-grounded conversation and specialist configuration; do not assume Spaces and custom-agent selection form a seamless integrated interaction until tested.
+- **Relevance Chat:** evaluate intentional multi-specialist interaction and context continuity without building a frontend.
+- **Fly.io:** potential cloud hosting for a future custom Strategic OS App, not an off-the-shelf multi-agent experience or a present dependency.
+- **GitHub Issues / Projects / Actions:** potential supporting capabilities for legitimate repository work, context checks and a lightweight interim portfolio view; avoid duplicating organisational delivery records or building new administration by default.
+
+The preferred exploration sequence is GitHub-first for context and governance, interface-neutral for interaction, and runtime-neutral for specialist implementation. No vendor or hosting decision has been made.
+
+## Deferred proof of concept
+
+When José elects to resume, compare a small GitHub Copilot Spaces project conversation against ChatGPT plus GitHub; evaluate Relevance Chat if the comparison exposes a meaningful multi-agent interaction gap. Use the agreed roles and bounded, approved, privacy-safe project context. Candidate scenarios are an Agile Project Lead conversation for Customer Account Management and an HCD conversation for Channel Strategy Y2.
+
+Evaluate source retrieval and citations, freshness and authority boundaries, specialist reasoning, browser accessibility, continuity, handoff clarity and José's attention cost. Any workplace use or external service integration must respect organisational approval, access and data-handling requirements. GitHub Pages should not be assumed private merely because a source repository is private.
+
+**Status:** This is a recorded design direction only. The existing Gate 0 and explicit implementation approval remain in force. No pilot has run; no agents, runtime integrations, automation or write-back are authorised by this decision.
+
 # Current decision
 
 The project implementation agent model is accepted as a direction for further exploration.
