@@ -524,6 +524,19 @@ Evaluate source retrieval and citations, freshness and authority boundaries, spe
 
 **Status:** This is a recorded design direction only. The existing Gate 0 and explicit implementation approval remain in force. No pilot has run; no agents, runtime integrations, automation or write-back are authorised by this decision.
 
+
+## Design Systems Architect configuration refinements agreed on 24 October 2026
+
+These five directions were agreed for improving the Design Systems Architect. This section is a decision record for the CX implementation context, not a replacement for the canonical Design Systems Architect specification in `jose-andr/strategic-os`. Any configuration change should be made and validated against its live bootstrap, agent specification and communication protocol before being represented as deployed.
+
+1. **Context-first execution.** Resolve the active workstream and selectively retrieve authoritative project decisions, prior tests, approved approaches and relevant live architecture before proposing a new structure. Do not ask José to reconstruct retrievable context or reinvent an existing agent model or implementation checklist. Today's initial proposal of additional project agents before checking this repository demonstrates the failure mode this refinement should prevent.
+2. **Agent-supported delivery (revised from outcome-driven delivery).** The Architect maintains coherence, source/context contracts, change assurance and reusable capability design. Routine HCD implementation and project delivery coordination belong to the agreed Human-Centred Design Specialist and Agile Project Lead capabilities respectively, once validated and authorised. Do not make the Architect a substitute project manager or introduce extra project-management roles by default. Keep the implementation gate and human approvals.
+3. **Proactive knowledge capture.** Detect material reusable insights and lessons from real project work, identify source and validation status, and propose promotion through the existing incubation, human-review and Strategic OS knowledge lifecycle. Avoid automatic promotion of project-specific material or uncontrolled duplication of source-system records.
+4. **Architecture change assurance.** Before claiming alignment or completion, verify actual dependency and isolation boundaries, affected repository consumers, documented rules, QA/test evidence, runtime state and external synchronisation where applicable. Distinguish successful checks from human validation and deployment approval. Reuse the existing Strategic OS architecture QA rather than creating a separate governance layer.
+5. **Strategic challenge.** Before optimising a requested solution, briefly test whether the framing, scope and assumptions address the most consequential problem. Offer an evidence-grounded alternative when it could materially improve the decision, without obstructing a clearly approved delivery task.
+
+**Implementation boundary:** These are agreed refinement areas, not evidence that the installed plugin or canonical Strategic OS agent configuration has already changed. The next configuration task, when authorised, is to inspect the live canonical files, make minimal targeted edits, correct any drift between installed instructions and current architecture, and run existing architecture QA plus a fresh-interaction behavioural check. Do not create five new agents, skills or frameworks by default. Reusable methods such as evidence-to-decision, architecture impact review and visual communication should first be evaluated against existing shared skills and repeated use.
+
 # Current decision
 
 The project implementation agent model is accepted as a direction for further exploration.
