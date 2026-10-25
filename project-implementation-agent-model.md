@@ -2,15 +2,13 @@
 
 ## Status
 
-**Design direction agreed — implementation paused**
+**Rovo selected for CoM project agents — staged implementation authorised 25 October 2026**
 
 This document records the agreed direction for project-focused AI agents across José's CX project portfolio.
 
 It defines the intended role, boundaries and relationship to Strategic OS.
 
-It does not create, configure or operationalise any agent.
-
-Implementation should remain paused until the broader agentic model has been explored and the role of project implementation agents within that model is confirmed.
+This document defines the agreed model and records the decision to implement both roles within CoM Rovo. The Agile Project Lead has undergone initial read-only testing; HCD Specialist implementation and controlled source updates are still pending.
 
 ---
 
@@ -546,6 +544,58 @@ The initial candidate roles are:
 1. Human-Centred Design Specialist
 2. Agile Project Lead
 
-Implementation is intentionally paused.
+Rovo is the selected CoM implementation environment. Initial Agile Project Lead tests are complete; staged delivery of both agents is authorised. Approved Bitbucket-first publishing and Jira reconciliation workflows remain to be designed and validated, not enabled by this decision.
 
-The next activity is to explore the broader agentic model and determine how these project implementation agents fit within it before creating agent specifications, runtimes, prompts, workflows or integrations.
+---
+
+# Rovo implementation decision and acceptance evidence (25 October 2026)
+
+## Decision
+
+José selected **CoM Rovo Studio** for the organisational CX project implementation experience, separate from personal ChatGPT and Personal/Strategic OS. Use the agreed **Human-Centred Design Specialist** and **Agile Project Lead**, not a new agent workforce. Make, Relevance AI, Fly.io and personal GitHub are not required for this CoM implementation. Rovo access and agent configuration were inspected interactively in the City of Melbourne Atlassian environment.
+
+The target value is converting **approved Microsoft Teams meeting transcript findings and validation points** into verified next learning/delivery steps, updating the appropriate **Bitbucket project source**, then reconciling the intended **Confluence published view and Jira delivery records**. This is a desired workflow, not yet an implemented integration.
+
+## Findings from Rovo inspection and initial tests
+
+- Manual Rovo agent editor, instructions, Skills (Beta), subagents, knowledge settings, reasoning selection and tool catalogue were visible in José's CoM session. Presence does not establish all tool execution permissions.
+- Custom knowledge offered Jira, Confluence and Bitbucket as sources. The inspected Bitbucket knowledge selection did not expose a repository selector; retrieval scope and effective access need validation per project.
+- The Bitbucket tool catalogue displayed pull-request comment, create and merge actions. **Do not enable write/merge actions by default.** Catalogued actions were not executed.
+- Agile Project Lead **Test 01** retrieved CAM project context and cited Confluence/Jira, separated documented progress from current status and identified unverified items. Source claims were not independently audited.
+- **Test 03** reported discovery of CAM and current-state SOP Bitbucket repositories, README and individual historical commit objects, with useful source-reconciliation observations. Complete commit, PR and tree listings were unavailable.
+- **Test 04** targeted an obsolete `00-project-control/ways-of-working.md` path; its reported permission error is **not evidence of lacking Bitbucket file permissions**.
+- **Test 04B** retrieved the existing CAM `README.md` at `main`, but could not list the current tree or verify the repository's configured default branch.
+- **Test 05** used a known file: `https://bitbucket.org/jose-andr/cx-sharepoint-refresh/src/main/README.md`. Rovo reported reading substantive contents, summarised purpose, identified three source-specific facts, and quoted “Confluence explains the work. Jira manages the work.” Independent source-content verification in ChatGPT was not performed. **Direct known-file retrieval provisionally passes; autonomous source discovery is limited.**
+- No proof yet of live Microsoft Teams transcript ingestion, autonomous Bitbucket change preparation, publishing pipeline operation, Jira reconciliation, permission-safe write-back or end-to-end provenance.
+
+**Decision:** Stop further basic connectivity testing. Rovo is sufficiently promising for José to choose it as the CoM agent implementation surface; do not label untested workflow capabilities as operational.
+
+## Agreed workflow and authority
+
+```text
+Approved Teams transcript / meeting notes
+  -> HCD Specialist: evidence, validation, assumptions, open questions, next learning step
+  -> Agile Project Lead: next bounded increment, owners to confirm, dependencies, acceptance
+  -> Human review: accept / amend / reject, confirm decision authority
+  -> Proposed Bitbucket source change: specific file and diff, project-specific source contract
+  -> Approved Bitbucket commit or pull request: traceable change, appropriate reviewer
+  -> Confluence publishing or controlled update: avoid duplicate competing pages
+  -> Jira work item reconciliation: link approved increment, owner, status and blockers
+  -> Verify source parity, record errors and unresolved discrepancies
+```
+
+Where the project source contract makes Confluence or Jira authoritative for an object, respect that object-specific authority rather than blindly writing everything to Bitbucket. The existing Bitbucket-to-Confluence publication pattern may be reused only after verification on each project. Do not assume publication or Jira synchronisation is automatic or functioning.
+
+### Transcript-to-action interpretation contract
+
+Capture each candidate item with: source meeting reference and date; relevant excerpt or time reference; type (observed evidence / proposed action / agreed decision / validation finding / open question); confidence; affected project/artefact; proposed owner (unconfirmed unless documented); dependency; recommended next step; suggested target record; and approval state. Transcripts can contain transcription errors and speaker ambiguity, and apparent consensus is not automatic approval. Confirm material decisions and ownership with José or the authorised CoM decision-maker before changing organisational records.
+
+### Write-back safety
+
+Start with **read and draft only**. Add controlled write operations progressively after approval and capability verification. Prefer suggested file patches and pull requests before direct changes to a protected project source; never self-merge or publish consequential decisions. Human approval must be enforceable by tool permissions or workflow gates, not only prompt wording. Use bounded OAuth/service permissions and maintain audit links, rollback information, and clear failure behaviour. Confluence and Jira changes must be verified after execution; partial propagation leaves an explicit reconciliation item.
+
+## Experience and role boundaries
+
+The everyday interface is CoM Rovo Chat/Studio, accessible on the work laptop. Users select the project and specialist intentionally at first. HCD determines **what to validate next and why**; Agile Project Lead determines **what delivery increment moves next and what is blocking it**. Neither silently changes source records, creates commitments or acts as an authoritative delivery system. Personal/Strategic OS is independent, receiving only deliberately approved, privacy-safe reusable learning.
+
+Implementation phases, acceptance evidence and remaining safeguards live in `project-implementation-agent-implementation-checklist.md`.
