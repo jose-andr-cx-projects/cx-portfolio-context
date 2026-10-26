@@ -1,0 +1,13 @@
+# CX Programme repository index
+
+- [Customer Accounts and Information Management — Discover + Define](https://github.com/jose-andr-cx-projects/customer-accounts-and-information-management-discover-define): Account and information-management discovery, consolidated problem framing and handoff to Business Context Architecture (**staging source only; confirm Bitbucket URL after import**).
+- [Business Context Architecture — Develop + Deliver](https://github.com/jose-andr-cx-projects/business-context-architecture-develop-deliver): Develop a coherent business-context framework and test experience hypotheses through bounded delivery (**staging source only; confirm Bitbucket URL after import**).
+- [Channel Strategy Y2](https://github.com/jose-andr-cx-projects/channel-strategy-y2): Improve channel experience and interaction pathways through bounded discovery, design and validation (**staging source only; confirm Bitbucket URL after import**).
+- [Reusable CX Knowledge Architecture](https://github.com/jose-andr-cx-projects/reusable-cx-knowledge-architecture): Explore how reusable CX definitions and rules can be governed once and applied responsibly (**staging source only; confirm Bitbucket URL after import**).
+- [CX Communication Governance](https://github.com/jose-andr-cx-projects/cx-communication-governance): Develop governed communication rules and quality checks across templates and channel surfaces (**staging source only; confirm Bitbucket URL after import**).
+- [CX Service Experience Mapping](https://github.com/jose-andr-cx-projects/cx-service-experience-mapping): Map customer segments, interaction modes and service offerings to operational evidence and experience measures (**staging source only; confirm Bitbucket URL after import**).
+- [CX SharePoint Refresh](https://github.com/jose-andr-cx-projects/cx-sharepoint-refresh): Make CX information, tools and support easy for employees to find, understand and use (**staging source only; confirm Bitbucket URL after import**).
+- [Business Context — Source to Surfaces Demo](https://github.com/jose-andr-cx-projects/business-context-source-to-surfaces-demo): Show how one business-context definition can support different role-appropriate outputs (**staging source only; confirm Bitbucket URL after import**).
+- [Customer Account Analytics — Databricks](https://github.com/jose-andr-cx-projects/customer-account-analytics-databricks): Explore digital self-service journeys, customer activity and friction through governed account and portal analytics (**staging source only; confirm Bitbucket URL after import**).
+
+Use this index for repository discovery, not for authoritative Jira delivery state.
