@@ -439,3 +439,18 @@ The working practice begins with **collaborative Miro visuals**, not transcripts
 - [ ] Evaluate whether Miro access meaningfully improves next-step accuracy and saves José synthesis time before enabling further automation.
 
 **Priority adjustment:** Phase 2 transcript-driven extraction becomes **Miro plus transcript-driven synthesis**. Do not create a separate Miro agent or assume the knowledge connection can see embedded diagrams. Existing test findings and permissions gates are unchanged.
+
+
+## Miro retrieval result and implementation decision (26 October 2026)
+
+**Observed from José's Rovo assessment:** Despite Miro being selected as Agile Project Lead knowledge, the agent found only board URLs in secondary references, not readable Miro-native objects. Direct board URL reads returned `Missing object id or cloud id`. No board metadata, frames, objects, sticky-note text, visuals, annotations, ordering or decisions were retrievable. Zero project-related boards were confirmed accessible through Miro itself. This does **not** establish a blanket permission problem or prove a specific connector root cause.
+
+**Implementation response:** Do not make direct Miro access a blocking dependency and do not claim agent visual understanding. Maintain Miro as the team's live collaborative creation surface. For post-workshop synthesis, use approved selected frame exports/screenshots plus the matching Teams transcript provided within CoM; include project, meeting date, board/frame link, source/version and human interpretation of ambiguous relationships. The HCD Specialist extracts evidence, validation questions and unresolved design decisions; Agile Project Lead proposes the smallest useful action and documentation/delivery updates. Approval remains with José and authorised CoM owners. Source of truth, Bitbucket proposal, Confluence publication and Jira reconciliation gates remain unchanged.
+
+- [x] Attempt Miro-only knowledge retrieval via Agile Project Lead; **no actual Miro board contents retrievable**.
+- [ ] Validate the manual visual-export plus Teams transcript handoff using one real workshop.
+- [ ] Check Rovo attachment support for the selected exported board frames in the approved CoM environment.
+- [ ] Link each action to evidence from a precise visual frame and transcript passage, marking ambiguities for human confirmation.
+- [ ] Treat direct Miro-native retrieval as optional separate connector remediation, not an implementation prerequisite.
+
+**Revised implementation priority:** build the minimum post-meeting synthesis flow, not further general-purpose Miro discovery tests.
