@@ -2,11 +2,11 @@
 
 ## Status
 
-**Rovo selected — staged implementation planning active (25 October 2026)**
+**Superseded two-agent plan — one CX Project Companion (26 October 2026)**
 
 This checklist records the work that would be required to move the agreed Project Implementation Agent Model into practical use.
 
-José has explicitly selected CoM Rovo Studio for the two existing project agents after limited read-only capability tests. The phased plan below supersedes the earlier blanket pause, while retaining all quality, authority and approval gates.
+The earlier phased two-agent plan below is historical context. The current implementation sequence is the single-agent consolidation recorded at the end of this document; existing source/approval safeguards continue to apply.
 
 Related model:
 
@@ -473,3 +473,21 @@ Initially this is an **advisory output only**. No direct Miro editing or board g
 - [ ] Add the Miro visual recommendation section to the HCD Specialist's Rovo instructions.
 - [ ] Trial one concise post-workshop output containing HCD learning, recommended Miro frame, and next validation step.
 - [ ] Confirm the recommendation is faithful to the exported board and transcript before publishing or acting on it.
+
+
+---
+
+# Current implementation plan: consolidate into one Rovo agent (26 October 2026)
+
+**Decision:** José will use a single **CX Project Companion** to combine human-centred design, practical delivery coordination, Miro visual recommendations and source-documentation preparation. This supersedes the two-agent division and any proposed third visualisation agent/subagent. Earlier sections remain for decision history, not active build instructions.
+
+- [ ] Reconfigure/rename the existing tested **CX Agile Project Lead** in Rovo as **CX Project Companion**, where supported. Preserve already-approved CoM knowledge connections and review their access; avoid cloning the agent unnecessarily.
+- [ ] Replace instructions with one concise integrated purpose, balanced evidence-to-action reasoning, visual recommendations, cross-source authority and human approval controls.
+- [ ] Default post-meeting response: **learnings and evidence; confirmation items; prioritised next steps; one Miro visual suggestion when useful; precise proposed Bitbucket/Confluence/Jira changes**. Be proportionate and avoid speculative extra work.
+- [ ] Input: workshop Miro board/frame references and approved exports plus matching Teams transcript, project source contract, and any approved current project records. Native Miro board read is not currently verified, so never claim visual inspection from a bare URL.
+- [ ] Before proposing updates, identify exact authoritative file/page/issue and current version. Do not assume all records are synced. Request confirmation for decisions and owners. Generate drafts/diffs first.
+- [ ] Enable writes only after verifying Rovo tool capability, least-privilege permissions, approval workflow, rollback, and downstream publication/QA. Otherwise prepare human-applied edits.
+- [ ] Validate a real post-workshop review for usability and high-quality next-step recommendations; no further generic connectivity campaign.
+- [ ] Once the combined agent is working, disable/archive the separate HCD agent in Rovo if it exists and is no longer needed; do not presume it has been archived.
+
+**Explicitly out of scope initially:** subagents, automatic Miro editing, unattended commits, pull-request merging, automatic Confluence/Jira publication, personal system integration, and broad workflow orchestration.
