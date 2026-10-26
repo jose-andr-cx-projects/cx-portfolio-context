@@ -424,3 +424,18 @@ Rovo is the agreed CoM platform. Initial Agile Project Lead configuration and ad
 - **Primary product value:** Teams validation and meeting evidence -> next HCD/Agile steps -> approved Bitbucket source changes -> verified Confluence/Jira consistency.
 - **Roles:** retain HCD Specialist and Agile Project Lead.
 - **Governance:** staged delivery, human approval, project-level source contracts, no automatic integration with personal OS.
+
+
+## Miro-led workflow refinement (26 October 2026)
+
+The working practice begins with **collaborative Miro visuals**, not transcripts alone. The Teams transcript records discussion around evolving visual artefacts. Treat the board and transcript as complementary, potentially conflicting evidence, and verify interpretation with José before promoting conclusions into project records.
+
+- [x] José reports adding **Miro** as a knowledge source to the Agile Project Lead in Rovo.
+- [ ] Verify Rovo can retrieve the relevant Miro board/frame content, not merely its title or URL; note limitations in visual interpretation.
+- [ ] Define the minimum meeting input as approved Miro board/frame links, meeting transcript/date, project identity and applicable authoritative source links.
+- [ ] Extract decisions for confirmation, validation findings, visual artefact changes, open questions and proposed next HCD/Agile increments with traceable board and transcript references.
+- [ ] Distinguish co-created working ideas, stakeholder opinions, findings supported by research and ratified decisions.
+- [ ] Build a short human review of proposed Bitbucket file changes, Confluence publication and Jira updates; retain source-specific approvals and reconciliation checks.
+- [ ] Evaluate whether Miro access meaningfully improves next-step accuracy and saves José synthesis time before enabling further automation.
+
+**Priority adjustment:** Phase 2 transcript-driven extraction becomes **Miro plus transcript-driven synthesis**. Do not create a separate Miro agent or assume the knowledge connection can see embedded diagrams. Existing test findings and permissions gates are unchanged.
