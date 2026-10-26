@@ -505,3 +505,17 @@ Initially this is an **advisory output only**. No direct Miro editing or board g
 6. **Verify:** Re-read changed Bitbucket files, record revision/PR, then publish/reconcile Confluence and Jira only where appropriate and authorised; surface failures or drift.
 
 **Priority:** Make this user-triggered evidence-to-repository loop reliable before pursuing automatic meeting discovery, scheduling, full platform synchronisation or background monitoring. A supplied transcript is the authoritative evidence of what was said, not necessarily a superseding policy or ratified project decision.
+
+
+## Working configuration: Bitbucket maintenance and programme view (26 October 2026)
+
+- [x] Rovo capability assessment: known-file reads can work; file-edit/commit and branch creation not available; PR tool listed but permission and end-to-end operation not verified.
+- [ ] Add one combined Rovo instruction for **easy Bitbucket updates**: identify current file; retrieve; produce copy-ready minimal edit or full replacement; state exact target and application steps; verify after human commit. Do not require José to re-explain project context already known.
+- [ ] Save project repository entry points/authoritative file paths as lightweight **knowledge references** where approved. Do not assume the agent can enumerate repository trees.
+- [ ] Add **portfolio/programme management** to the same CX Project Companion. Portfolio review should use existing Jira work plus Confluence evidence and user-provided latest activity, not a new competing source of truth.
+- [ ] Portfolio default: one compact row per active project: objective/outcome, latest verified position and evidence date, next increment, key blocker/dependency, decision needed, proposed action, and source link. Flag unknown/stale records, avoid invented owners/dates and distinguish user-supplied newer input from formally recorded system status.
+- [ ] Offer a portfolio delta after each project review only where material: which programme-level risks, shared dependencies, sequencing or resource constraints changed. Do not overwhelm every project response.
+- [ ] Keep strategic priority approval and cross-project commitments with José; no autonomous work assignment, Jira changes or source writes.
+- [ ] Later, if authorised enterprise tools support repository edits, introduce narrowly scoped, approved execution and read-back verification; retain copy-ready patch as the working interim process.
+
+**Current accepted boundary:** The Companion advises and prepares source changes; José applies Bitbucket edits until a permitted execution tool exists. This is intentional for now, not a claim that direct execution was enabled.
