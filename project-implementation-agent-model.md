@@ -599,3 +599,25 @@ Start with **read and draft only**. Add controlled write operations progressivel
 The everyday interface is CoM Rovo Chat/Studio, accessible on the work laptop. Users select the project and specialist intentionally at first. HCD determines **what to validate next and why**; Agile Project Lead determines **what delivery increment moves next and what is blocking it**. Neither silently changes source records, creates commitments or acts as an authoritative delivery system. Personal/Strategic OS is independent, receiving only deliberately approved, privacy-safe reusable learning.
 
 Implementation phases, acceptance evidence and remaining safeguards live in `project-implementation-agent-implementation-checklist.md`.
+
+
+## Miro-led collaborative working practice (26 October 2026)
+
+José clarified the established effective workflow: **the team develops and creates together in Miro, uses visuals as the basis for discussion, and José then uses meeting transcripts to update documentation and identify next steps.** The agentic implementation must support this existing method, not replace it with transcript-only processing or impose a separate project-management ceremony.
+
+The intended evidence flow is:
+
+```text
+Miro collaborative visual artefact + meeting discussion
+    -> approved Teams transcript and board reference
+    -> interpret visual changes, validation points, agreements and open questions together
+    -> propose next HCD learning/validation activity and Agile delivery increment
+    -> José confirms intent, ownership, decision status and proposed changes
+    -> update the correct authoritative Bitbucket artefact where governed there
+    -> publish/reconcile Confluence and update Jira where applicable
+    -> verify links, version/freshness and unresolved discrepancies
+```
+
+**Miro has been added by José as a knowledge source to the Agile Project Lead in CoM Rovo.** This confirms a configuration action reported by José, **not** successful visual-board retrieval or interpretation. Test Miro board access, the availability of frames, diagrams, sticky notes and text, and whether the agent can reliably relate them to the correct meeting transcript and version before treating Miro as verified input. If visual content is unavailable through knowledge retrieval, use an approved board export or human-authored summary within CoM rather than hallucinating visual detail.
+
+Treat Miro as a collaborative **working artefact/evidence surface**, not automatically the record of a formally approved decision. Preserve board link, frame or section reference, last known update, transcript link/date, validation outcome, decision status, confidence and source-specific ownership. Do not infer consensus from spatial proximity or sticky notes. The HCD Specialist should interpret evidence and learning needs; Agile Project Lead should convert confirmed outcomes into bounded next actions and controlled source-update proposals. Do not independently edit Miro or source systems without separately authorised tools and human-review gates.
