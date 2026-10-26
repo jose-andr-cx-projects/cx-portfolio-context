@@ -491,3 +491,17 @@ Initially this is an **advisory output only**. No direct Miro editing or board g
 - [ ] Once the combined agent is working, disable/archive the separate HCD agent in Rovo if it exists and is no longer needed; do not presume it has been archived.
 
 **Explicitly out of scope initially:** subagents, automatic Miro editing, unattended commits, pull-request merging, automatic Confluence/Jira publication, personal system integration, and broad workflow orchestration.
+
+
+## Input-triggered repository maintenance (26 October 2026)
+
+**User clarification, superseding autonomous freshness expectations:** José does not require the CX Project Companion to proactively discover unprovided Teams transcripts or prove that every meeting has been ingested. The highest-value workflow is **José supplies the latest transcript, Miro export, notes or explicit instruction**, and the agent uses that input to review and update the appropriate project repository. Older organisational source records are context, not a reason to ignore the supplied latest evidence.
+
+1. **Input:** José provides the latest approved meeting transcript, visual export or instruction within the CoM environment, identifying the project.
+2. **Interpret:** Extract discussed findings, decisions for confirmation, new validation points, unresolved matters and next steps with references. Distinguish discussion from formal approval.
+3. **Inspect:** Retrieve existing authoritative project files and source-specific publication rules; locate concrete sections affected by the new evidence. Do not assume current Bitbucket tree or version from historical records.
+4. **Propose:** Produce minimal targeted diffs/sections, a concise change summary and any unresolved conflicts or authorisations needed. Reuse existing structures.
+5. **Approve/apply:** José or authorised owner confirms consequential interpretations and changes; execute only with verified organisational write capability, permissions and enforceable approval gates, otherwise deliver ready-to-apply patches.
+6. **Verify:** Re-read changed Bitbucket files, record revision/PR, then publish/reconcile Confluence and Jira only where appropriate and authorised; surface failures or drift.
+
+**Priority:** Make this user-triggered evidence-to-repository loop reliable before pursuing automatic meeting discovery, scheduling, full platform synchronisation or background monitoring. A supplied transcript is the authoritative evidence of what was said, not necessarily a superseding policy or ratified project decision.
