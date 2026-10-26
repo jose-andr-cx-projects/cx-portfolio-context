@@ -2,13 +2,13 @@
 
 ## Status
 
-**Rovo selected for CoM project agents — staged implementation authorised 25 October 2026**
+**Current direction: one CX Project Companion in CoM Rovo (26 October 2026)**
 
 This document records the agreed direction for project-focused AI agents across José's CX project portfolio.
 
 It defines the intended role, boundaries and relationship to Strategic OS.
 
-This document defines the agreed model and records the decision to implement both roles within CoM Rovo. The Agile Project Lead has undergone initial read-only testing; HCD Specialist implementation and controlled source updates are still pending.
+This document retains the historical two-role proposal and records the superseding decision to consolidate into one CoM Rovo agent. The Agile Project Lead has undergone initial read-only testing; HCD Specialist implementation and controlled source updates are still pending.
 
 ---
 
@@ -621,3 +621,18 @@ Miro collaborative visual artefact + meeting discussion
 **Miro has been added by José as a knowledge source to the Agile Project Lead in CoM Rovo.** This confirms a configuration action reported by José, **not** successful visual-board retrieval or interpretation. Test Miro board access, the availability of frames, diagrams, sticky notes and text, and whether the agent can reliably relate them to the correct meeting transcript and version before treating Miro as verified input. If visual content is unavailable through knowledge retrieval, use an approved board export or human-authored summary within CoM rather than hallucinating visual detail.
 
 Treat Miro as a collaborative **working artefact/evidence surface**, not automatically the record of a formally approved decision. Preserve board link, frame or section reference, last known update, transcript link/date, validation outcome, decision status, confidence and source-specific ownership. Do not infer consensus from spatial proximity or sticky notes. The HCD Specialist should interpret evidence and learning needs; Agile Project Lead should convert confirmed outcomes into bounded next actions and controlled source-update proposals. Do not independently edit Miro or source systems without separately authorised tools and human-review gates.
+
+
+---
+
+# Superseding decision: one CX Project Companion in Rovo (26 October 2026)
+
+**Current approved direction (supersedes two-agent implementation plan):** José has decided separate HCD Specialist and Agile Project Lead agents create unnecessary interaction overhead and will not be used effectively. Consolidate them into **one Rovo agent: CX Project Companion**. Do not create a third agent, subagent, autonomous handoff or mandatory mode selection. The earlier two roles and tests remain as historical rationale, not the active deployment design.
+
+**Single-agent mission:** Support the real working loop: collaborative Miro visual development -> approved Teams transcript and selected frame export -> identify evidence, validation outcomes, decisions needing confirmation and next steps -> recommend a practical Miro visual to refine or create -> prepare approved Bitbucket source changes -> maintain appropriate Confluence and Jira records with verification. Apply experience-design, governance/publishing and delivery lenses as needed in the same conversation; avoid lengthy lens-by-lens reporting unless requested.
+
+**Default post-meeting output (short):** (1) what changed / what we learned, with evidence vs assumptions; (2) decisions requiring confirmation and unresolved questions; (3) prioritised next actions with suggested owners explicitly unconfirmed until approved; (4) one useful Miro visual recommendation, preferring reuse of the existing board, with a Miro-ready layout; (5) proposed changes to the project's authoritative files, Confluence and Jira, with source references, write status and approvals. If no new visual adds value, explicitly say so.
+
+**Authority and technical boundaries:** Miro remains the team's working canvas; native Miro reading failed with `Missing object id or cloud id`, so rely on CoM-approved frame exports plus transcripts when necessary. Bitbucket retrieval of a verified substantive README provisionally succeeded; repo-tree enumeration and current-state discovery remain limited. The agent must not claim automatic transcript ingestion or organisational write-back without demonstrated tools/permissions. Use human-reviewed drafts, specific diffs and enforceable permission gates before commit, publication or Jira updates. Object-level source-of-truth authority can differ between Bitbucket, Confluence and Jira. Preserve CoM/personal system isolation.
+
+**Transition:** Prefer editing/renaming the existing tested Agile Project Lead agent in Rovo (if supported) to carry the combined instructions and compatible knowledge settings, rather than creating a duplicate. Review its visibility, knowledge, tools and permissions after consolidation. Archive/disable the separate HCD Specialist after the consolidated agent is confirmed operational; avoid deleting any useful records or prematurely claiming that this has been done. Only José can make the changes in the CoM Rovo interface.
