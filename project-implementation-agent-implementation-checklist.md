@@ -454,3 +454,22 @@ The working practice begins with **collaborative Miro visuals**, not transcripts
 - [ ] Treat direct Miro-native retrieval as optional separate connector remediation, not an implementation prerequisite.
 
 **Revised implementation priority:** build the minimum post-meeting synthesis flow, not further general-purpose Miro discovery tests.
+
+
+## HCD-led Miro visualisation recommendations (26 October 2026)
+
+**Decision:** Keep this simple. Do **not** create a third visualisation agent or subagent by default. Following a collaborative Miro workshop, the HCD Specialist should review the approved selected board frames and corresponding Teams transcript, then recommend the most useful **Miro visual output** alongside validation findings and next learning steps. Agile Project Lead remains responsible for translating approved outcomes into delivery work and source updates.
+
+The HCD visual recommendation must answer:
+- **Purpose and audience:** what question the visual helps the team resolve;
+- **Reuse first:** update an existing frame, reorganise existing artefacts, or create a new frame only when justified;
+- **Visual pattern:** e.g., journey map, service blueprint, opportunity map, assumption/decision map, options comparison or visual action roadmap;
+- **Miro-ready specification:** frame title, layout, groups/swimlanes, proposed labels/notes/connectors, grounded evidence and references;
+- **Next validation:** what to discuss, test, confirm or decide with the team;
+- **Uncertainty:** clearly label interpretation, proposed direction and confirmed decisions.
+
+Initially this is an **advisory output only**. No direct Miro editing or board generation capability is assumed. A separate specialist or reusable subagent should be considered only if repeated work reveals a genuinely distinct, high-volume visual-production bottleneck. The existing inaccessible native Miro board retrieval remains a known limitation; use approved visual exports and meeting evidence within CoM.
+
+- [ ] Add the Miro visual recommendation section to the HCD Specialist's Rovo instructions.
+- [ ] Trial one concise post-workshop output containing HCD learning, recommended Miro frame, and next validation step.
+- [ ] Confirm the recommendation is faithful to the exported board and transcript before publishing or acting on it.
