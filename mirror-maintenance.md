@@ -1,3 +1,5 @@
+> **Superseded for ongoing operations (26 October 2026).** The GitHub mirroring workflow is no longer the approved future-state CX portfolio design. See [Bitbucket transition](bitbucket-transition/architecture.md) and [governed Strategic OS intake](bitbucket-transition/strategic-os-intake.md). Retained for historical evidence only.
+
 # CX Project Mirror Maintenance
 
 ## Purpose
