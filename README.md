@@ -1,5 +1,8 @@
 # CX Portfolio Context
 
+> **Architecture transition (26 October 2026):** Future CoM project operations are **Bitbucket-native**. This GitHub repository is a staging/transition and historical reference, **not** a live mirror or the CoM portfolio source of truth. Start with [Bitbucket transition architecture](bitbucket-transition/architecture.md), [portfolio index](bitbucket-transition/portfolio-index.md), [operating contract](bitbucket-transition/portfolio-operating-contract.md), and [Strategic OS intake](bitbucket-transition/strategic-os-intake.md). These are proposed documents for CoM review; no Bitbucket migration or automatic link has been completed. Preserve Strategic OS intake by **approved abstraction**, not repository mirroring.
+
+
 ## Purpose
 
 This repository is the lightweight bridge between José's organisational CX project environment and Strategic OS.
