@@ -31,3 +31,15 @@ This is a **Bitbucket-ready staging snapshot**. When imported into the approved 
 
 ## Import gate
 After Bitbucket import, verify permissions, repository identifiers, branches, actual Confluence publishing configuration and Jira mappings. Replace placeholders with verified organisational links. Until then these are candidate contracts, not deployed integration claims.
+
+## Work taxonomy, information taxonomy and publication
+
+**Approved design direction (29 October 2026):** Classify project activities and content independently.
+
+- **Work taxonomy:** project and 4Ds lifecycle stage (Discover, Define, Develop, Deliver); optional `4ds` denotes a smaller iterative loop within a main stage. The labels are case-sensitive and should carry explicit level and parent metadata when machine-read.
+- **Information taxonomy:** evidence, insight, decision, risk, requirement, method, design pattern or other content type, regardless of the stage when it arose.
+- **Governance and publication:** source ownership, approval status, permitted audience and destination are separate decisions; classification never grants publishing rights.
+
+Confluence project pages may be composed from approved sections of several source files. A Project Management page can combine the project profile, decision register and risk/dependency references. Smaller projects may combine Discover and Define; larger projects may use individual pages. An internal `4ds` loop does not require four new pages. The publication manifest determines selections, ordering and target pages. This is a proposed publishing contract, not evidence of live organisational integration.
+
+Jira remains the authority for issue status, ownership and due dates. Published pages must link rather than clone governed Jira state. Preserve section provenance, reject missing or ambiguous selections, apply explicit human approval and do not overwrite unmanaged Confluence content. Any AI cross-project synthesis must distinguish provisional patterns from validated organisational findings.
