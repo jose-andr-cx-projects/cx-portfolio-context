@@ -23,3 +23,11 @@ For cross-project reviews, use the portfolio index and verified links; surface c
 
 
 For programme-level questions, first use `portfolio-index.md` and `portfolio-management.md`, then inspect linked projects and Jira.
+
+## Work, information and governance classification
+When interpreting project activity or preparing a project page, distinguish:
+- **Work:** the project, main `4Ds` stage (Discover, Define, Develop, Deliver), or nested `4ds` iteration and its parent stage. Do not infer stage from the document folder alone.
+- **Information:** what the item actually represents (evidence, insight, decision, risk, requirement, rule, pattern, metric or action), regardless of stage.
+- **Governance:** its authoritative source, approval or validation status, sensitivity and permitted destination. Classification does not grant approval.
+
+A decision may be referenced in the relevant design stage and in Project Management without creating competing records. Keep links and source provenance. An unresolved finding is not an approved decision, and a proposed action is not automatically a Jira issue. Identify cross-project patterns as hypotheses until validated; do not export controlled organisational material to personal systems.
