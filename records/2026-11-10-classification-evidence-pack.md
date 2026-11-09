@@ -84,3 +84,46 @@ I request a formal review of my current position classification because the sust
 - Dennis previously agreed to raise classification with Tanya; no decision or timeframe was committed.
 - Draft request and evidence pack prepared for discussion after the 10 November one-on-one.
 - **No claim that the request has been formally lodged or the pack sent.**
+
+## 10. Internal CoM position-description comparators (added 10 November 2026)
+
+**Source status:** Four user-supplied CoM position descriptions and one user-supplied earlier comparison memo. These are documentary comparators, **not** the binding Appendix 11 classification definitions. Some describe historical reporting structures; confirm version, currency and applicability with People and Culture. Source documents were reviewed in the conversation and are not reproduced in this repository.
+
+| Comparator | Stated classification | Direct reports / financial management | Relevance and limitation |
+|---|---|---|---|
+| Project Officer Customer Focus, positions 12260 / 12280 / 16208, DM 4602647 | Band 5 | Nil / Nil | Baseline PD: explicitly leads and manages initiatives and projects; operates under direction with significant independence; contributes to process, systems and analytics improvement. Must not claim project leadership alone is Class 6. |
+| Customer Focus Senior Business Consultant, position 29996, DM 4605216 | Band 6 | 3 FTE / financial-management field says Nil, though accountabilities discuss budget management | Senior programme coordination, autonomous project/team direction, organisational capability and business consulting. Not a direct like-for-like comparator because it explicitly includes line management. |
+| Senior Projects and Engagement Officer, position 20323 | Class 6 | Template includes reporting Project Officer and people-leader duties; headcount/budget fields are unfilled placeholders | Independent project, engagement and strategic communications leadership; broad objectives, substantial autonomy. Treat as a supplementary, potentially draft/historical comparator. |
+| Customer Experience Implementation Lead, position C8860, DM 17610464 | Class 6 | Nil / Nil | **Primary comparator:** specialist CX delivery, cross-organisational influence, knowledge transfer and discretion where precedents are unclear, without direct reports or financial-management responsibility. Document footer inconsistently says “Senior Customer Experience Designer”; verify the authoritative PD identity/version. |
+
+### 10.1 Work-value distinctions to test
+
+| Dimension | Band 5 Project Officer PD | Class 6 CX Implementation Lead PD | Working comparison to José's current work |
+|---|---|---|---|
+| Project leadership | Leads and manages allocated projects from scope through delivery | Hands-on leading/facilitating initiatives and adoption of CX practices | SharePoint delivery and Scrum facilitation may fit either; distinguish autonomy and broader organisational ownership rather than leadership label alone |
+| Judgement | Direction on programme priorities; significant independence in operational work | Discretion and delegated authority where procedures or precedents are not clearly defined | Business context architecture and data-model decisions are promising examples; document which decisions José independently made versus recommended |
+| Stakeholder influence | Builds relationships and influences outcomes aligned with CoM objectives | Develops strategic relationships, negotiates outcomes and coordinates delivery partners | Evidence of influencing decisions across operational, technology and CX stakeholders needed |
+| Organisational capability | Shares project/system knowledge and contributes to improvement | Transfers knowledge to embed new ways of working and support branch adoption | Reusable analytics, service-configuration translator and CoMpanion navigation source are candidate evidence; verify uptake |
+| Complexity / scope | Diverse service issues and projects under programme direction | Challenges operating models, facilitates CX transformation and makes evidence-based choices under ambiguity | IFD and service-account work show complex problem framing; distinguish conceptual designs from implemented outcomes |
+
+### 10.2 Leadership concern — refined response
+
+The **Class 6 Customer Experience Implementation Lead PD explicitly lists Nil people and Nil financial management**. Therefore formal line management is **not universal across these CoM Class 6 comparator roles**. This does **not** establish that every Class 6 position is exempt from people-leadership requirements; the applicable Appendix 11 descriptors and actual proposed position duties remain decisive.
+
+Both the Band 5 and Class 6 PDs expect leadership and stakeholder influence. The classification argument must therefore concern the **degree of independent judgement, accountability, ambiguity, organisational scope and sustained responsibility**, not whether José has ever led projects.
+
+The Senior Business Consultant and Senior Projects and Engagement Officer PDs contain explicit people-leader requirements, so they should not be cited as proof that formal management is irrelevant. Their useful comparison is programme-level decision-making and autonomy.
+
+### 10.3 Historical comparison memo
+
+A user-supplied document titled *Project officer and cx lead comparison* records an earlier argument that the Project Officer PD had not reflected duties performed for years, including leading initiatives, advising and agile delivery. This is **José's prior position**, not independent verification of five years of higher-classified duties. Establish dates and recurring responsibilities before presenting that claim formally.
+
+### 10.4 Evidence gaps and immediate next actions
+
+1. Obtain signed/current Band 5 PD and confirm whether DM 4602647 is the operative version.
+2. Obtain verified Class 5/6 descriptors from the operative CoM Enterprise Agreement Appendix 11.
+3. Confirm current authoritative CX Implementation Lead PD (footer/title mismatch) and whether its role is an appropriate work-value comparator.
+4. For three strongest workstreams (Customer Account Analytics, Business Context / Salesforce configuration, SharePoint Refresh), document dates, ownership, decisions taken, adoption and stakeholder confirmation.
+5. Ask Dennis/People and Culture to assess *position work value*, not simply readiness for a promotion or formal people management.
+
+**Assessment status:** Evidence now supports a credible **case for review**, not a proven entitlement to reclassification. No formal request or decision is recorded.
