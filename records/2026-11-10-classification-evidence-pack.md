@@ -127,3 +127,21 @@ A user-supplied document titled *Project officer and cx lead comparison* records
 5. Ask Dennis/People and Culture to assess *position work value*, not simply readiness for a promotion or formal people management.
 
 **Assessment status:** Evidence now supports a credible **case for review**, not a proven entitlement to reclassification. No formal request or decision is recorded.
+
+
+## 11. Manager-supplied updated-template PD and process follow-up — 18 November 2026
+
+**Record type:** contemporaneous Teams message screenshot supplied by José; document delivery and stated follow-up. **Status:** delivery confirmed by screenshot; official document register and document contents not independently verified.
+
+- **Sender and time:** Dennis Sartorello, 18 November 2026, 4:05 pm (Teams screenshot displays “Today”).
+- **Document supplied:** linked Word attachment titled `Customer Focus Project Officer.docx` on the new position-description template.
+- **Stated changes:** Dennis wrote that no changes had been made to this PD apart from adding the key relationships discussed in their 1:1.
+- **Document comparison:** Dennis said he checked the document-management version José had supplied against the PD he was sharing, and they matched. This records *Dennis's reported cross-check*, not a separately verified equality test or confirmed current DM identifier.
+- **Process follow-up:** Dennis said he had contacted P&C and Jenni, who would be back in the office on 20 November 2026. This is evidence of outreach, **not** of a formal review being lodged, accepted, scheduled or decided.
+- **José's response (4:20 pm):** acknowledged receipt, flagged that the reporting line in the version previously seen appeared to refer to another position, and expressed readiness to begin the formal process.
+- **Outstanding verification:** obtain/read the actual linked DOCX; retain its authorised organisational link, file version/identifier, reporting line and current approval status; confirm whether it supersedes or corresponds to the earlier baseline DM 4602647; reconcile it with the authorised digital document repository.
+- **Source custody:** original Teams screenshot and Word document remain outside this GitHub record, in the approved organisational evidence location. This entry intentionally records minimal paraphrased facts, not the raw conversation or source attachment.
+
+**Evidence interpretation:** The record establishes manager delivery of the new-template PD and further People & Culture contact. It does not confirm a classification outcome, correct reporting line, official DM publication, or initiation of the formal clause 22.2 process.
+
+**Next checkpoint:** after 20 November 2026, confirm process owner and whether a formal classification-review request has been initiated; separately resolve the PD reporting-line and document-register questions.
