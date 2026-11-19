@@ -169,7 +169,7 @@ The Original is useful evidence for how the organisation described **Class 5's i
 
 **Claim to test with evidence:** whether José's enduring assigned responsibilities have progressed beyond independent delivery of allocated projects into higher-level discretion to define ambiguous problems, shape solutions and assume organisational capability accountability. Compare with formal operative Class 5/6 classification descriptors, not simply with omissions in template text.
 
-### 12.3 Clarification email to Dennis — drafted, NOT recorded as sent
+### 12.3 Clarification email to Dennis — drafted 19 November; user-confirmed sent 20 November
 
 **Draft subject:** Project Officer PD – a few points for clarification
 
@@ -180,7 +180,7 @@ The Original is useful evidence for how the organisation described **Class 5's i
 3. Can the Original's communication and judgement wording be retained as historical evidence for the classification review alongside actual current responsibilities?
 4. The inherent requirements reference changed from DM 9234862 to DM 19273628. Can José access both versions for comparison? If access is restricted, can Dennis confirm whether the requirements themselves have substantively changed or only the document reference was updated?
 
-**Status:** Draft prepared in ChatGPT on 19 November 2026. **No evidence email was sent, acknowledged or answered.** Original full draft and employer documents are not reproduced in this repository.
+**Status update (20 November 2026):** José confirms by direct user report that the follow-up email was sent today, as a reply in the original 10 November classification-review email trail. The draft content above reflects the prepared message; the exact sent-body, recipient metadata and send timestamp have not been independently inspected. No reply or acceptance from Dennis is evidenced. Original full correspondence and employer documents are not reproduced in this repository.
 
 ### 12.4 Next verification actions
 
@@ -191,3 +191,18 @@ The Original is useful evidence for how the organisation described **Class 5's i
 - Analyse sustained work-value evidence independently of the template change and seek the applicable Enterprise Agreement classification descriptors.
 
 **Decision-support conclusion:** A clearer Class 5 baseline is a stronger basis for a precise work-value argument. The missing section is a documentation and comparability concern, **not** proof of Class 6 entitlement.
+
+## 13. Classification-review email trail — status updated 20 November 2026
+
+**Evidence source:** José's direct confirmation on 20 November 2026, supported by previously supplied screenshots showing the 10 November sent email and the 17–18 November Teams exchanges. **Source authority:** original messages and delivery metadata remain in the organisational mailbox/Teams; this working record is a traceable summary, not a certified email archive.
+
+| Date | Event | Status and qualification |
+| --- | --- | --- |
+| 10 November 2026, 8:08 pm | Formal position classification review follow-up sent to Dennis, citing the Enterprise Agreement clause 22.2, evolved scope/complexity/autonomy/accountability, and requesting P&C process, documentation, assessor and timeframe clarification | Sent, supported by user-supplied Outlook screenshot; request to initiate, not proof a case was formally registered |
+| 17 November 2026, 4:24–4:31 pm | Teams follow-up about earlier email and correct PD; Dennis acknowledged email and stated he had contacted P&C and would seek an updated ETA | Screenshot-supported discussion; no formal process start date |
+| 18 November 2026, 4:05–4:24 pm | Dennis supplied the new-template PD, said he cross-checked it against the DM supplied, reported P&C follow-up and confirmed José reports directly to him | Screenshot-supported manager statements; not independent document version or HR status certification |
+| 20 November 2026 | José reports that the clarification follow-up email drafted from the original 10 November email thread was **sent today** | **User-confirmed sent.** Prepared questions cover omitted communication/judgement section, alternative statement of discretion, retention of the Original as historical evidence, and inherent requirements references DM 9234862 vs DM 19273628. Actual sent email and exact time not separately verified |
+
+**Process interpretation:** There is now a documented written request and a subsequent written clarification follow-up, with manager acknowledgment and HR outreach reported. **Do not mark the clause 22.2 classification review as formally commenced, accepted or decided** until People and Culture or the process owner confirms.
+
+**Next action:** Retain the Sent Items record of the 20 November email in approved organisational storage; capture Dennis/P&C response, responsible process owner, formal initiation date (if any), requirements-document comparison and agreed next milestone. Do not create a second escalation simply because the email was sent.
