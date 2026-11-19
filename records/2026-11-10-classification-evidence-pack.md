@@ -139,9 +139,55 @@ A user-supplied document titled *Project officer and cx lead comparison* records
 - **Document comparison:** Dennis said he checked the document-management version José had supplied against the PD he was sharing, and they matched. This records *Dennis's reported cross-check*, not a separately verified equality test or confirmed current DM identifier.
 - **Process follow-up:** Dennis said he had contacted P&C and Jenni, who would be back in the office on 20 November 2026. This is evidence of outreach, **not** of a formal review being lodged, accepted, scheduled or decided.
 - **José's response (4:20 pm):** acknowledged receipt, flagged that the reporting line in the version previously seen appeared to refer to another position, and expressed readiness to begin the formal process.
-- **Outstanding verification:** obtain/read the actual linked DOCX; retain its authorised organisational link, file version/identifier, reporting line and current approval status; confirm whether it supersedes or corresponds to the earlier baseline DM 4602647; reconcile it with the authorised digital document repository.
+- **Outstanding verification (updated 19 November):** José subsequently supplied Markdown text representing the new-template PD; content has been compared in Section 12. The actual linked DOCX, authorised organisational link, file version/identifier, approved status and official document register remain to be verified; reconcile its source identity with the earlier original.
 - **Source custody:** original Teams screenshot and Word document remain outside this GitHub record, in the approved organisational evidence location. This entry intentionally records minimal paraphrased facts, not the raw conversation or source attachment.
 
 **Evidence interpretation:** The record establishes manager delivery of the new-template PD and further People & Culture contact. It does not confirm a classification outcome, correct reporting line, official DM publication, or initiation of the formal clause 22.2 process.
 
 **Next checkpoint:** after 20 November 2026, confirm process owner and whether a formal classification-review request has been initiated; separately resolve the PD reporting-line and document-register questions.
+
+## 12. Original versus new template version — 19 November 2026
+
+**Record status:** working documentary comparison, not a People & Culture finding. **Names fixed for this review:** **Original** = the first supplied Project Officer Customer Focus PD (historical version, labelled Band 5, footer DM 4602647; source extract also carries an export identifier #4596739). **New template version** = the Customer Focus Project Officer PD Dennis shared on 18 November, whose Markdown representation was subsequently provided by José (Class 5, position 33812). The official Word file's identity, version, approval and DM register status have not been independently verified.
+
+### 12.1 Observed differences
+
+| Topic | Original | New template version | Consequence for review |
+| --- | --- | --- | --- |
+| Organisational metadata | Finance and Corporate / Customer Relations; Project Officer Customer Focus; positions 12260, 12280, 16208; Band 5 | Customer and Communications / Customer Experience; Customer Focus Project Officer; position 33812; Class 5 | Confirm organisational change and mapping of positions; terminology alone does not signal reclassification |
+| Reporting line | Customer Focus Senior Business Consultant | Manager Customer Experience Strategy and Design | Updated reporting relationship; independently verify position hierarchy and approval |
+| Substantive duties | Project management, business consulting, stakeholder engagement, strategy implementation, innovation, standards, customer service and insights | Same major functional accountabilities carried forward | Broad project leadership, analysis and stakeholder influence are already contemplated at Class 5 |
+| Environment: communication and judgment | Dedicated section describes complex communication, synthesis, stakeholder influence and judgement | No equivalent dedicated environment section present in supplied Markdown | **Material documentary omission:** reduces explicit description of the expected autonomy/complexity baseline; does not demonstrate an intentional reduction in duties |
+| Degree of independence | Works under direction yet has a significant level of independence and responsibility; management sets programme/project priorities, and officer makes day-to-day priority decisions | No equivalent explicit authority-boundary narrative | Preserve Original as historical evidence of intended independence *under direction* |
+| Key relationships | Relationship requirements expressed throughout communication and stakeholder sections | Dedicated Key Relationships section | New relational structure does not substitute for detailed discretion/judgement definition |
+| Inherent requirements | Refers to DM 9234862 | Refers to DM 19273628 | **Reference changed; substantive content change unknown** until both documents are examined |
+| Template requirements | Earlier structure | New format with separate child-safety requirement | Do not interpret a template change as an independent work-value assessment |
+
+### 12.2 Classification interpretation and safeguards
+
+The Original is useful evidence for how the organisation described **Class 5's intended scope**: sophisticated communication, cross-organisational relationships, significant independence **under management direction**, and decision-making regarding day-to-day operational priorities. It does **not** establish that Class 5 staff cannot find independent solutions or make other decisions. The new template's omission does **not** remove the historical record, change the binding classification descriptors or establish an intention to diminish the role.
+
+**Claim to test with evidence:** whether José's enduring assigned responsibilities have progressed beyond independent delivery of allocated projects into higher-level discretion to define ambiguous problems, shape solutions and assume organisational capability accountability. Compare with formal operative Class 5/6 classification descriptors, not simply with omissions in template text.
+
+### 12.3 Clarification email to Dennis — drafted, NOT recorded as sent
+
+**Draft subject:** Project Officer PD – a few points for clarification
+
+**Draft content summary (not a transcript):** Thank Dennis for the new template; identify the removal of the Original's communication and judgement section while duties remain substantially unchanged. Ask:
+
+1. Was the section removed through the standard template migration, or were the role expectations intentionally revised?
+2. Does another section now specify decision-making authority, independence and complexity?
+3. Can the Original's communication and judgement wording be retained as historical evidence for the classification review alongside actual current responsibilities?
+4. The inherent requirements reference changed from DM 9234862 to DM 19273628. Can José access both versions for comparison? If access is restricted, can Dennis confirm whether the requirements themselves have substantively changed or only the document reference was updated?
+
+**Status:** Draft prepared in ChatGPT on 19 November 2026. **No evidence email was sent, acknowledged or answered.** Original full draft and employer documents are not reproduced in this repository.
+
+### 12.4 Next verification actions
+
+- Keep both source PDs and their document-version metadata in approved organisational records; preserve the exact names **Original** and **New template version** in comparative analysis.
+- Seek Dennis's response to the four clarification questions, without implying deliberate removal or a classification decision.
+- Confirm the two inherent requirements records, their effective dates and substantive differences, if any.
+- Verify official new-template PD document ID, version, status and whether it supersedes the Original.
+- Analyse sustained work-value evidence independently of the template change and seek the applicable Enterprise Agreement classification descriptors.
+
+**Decision-support conclusion:** A clearer Class 5 baseline is a stronger basis for a precise work-value argument. The missing section is a documentation and comparability concern, **not** proof of Class 6 entitlement.
